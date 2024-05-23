@@ -1,0 +1,40 @@
+{
+    "dataPersonas": [
+        {
+            "cedula": "1234567890",
+            "nombres": "Juan",
+            "apellidos": "Pérez",
+            "fechaNacimiento": "1990-01-01",
+            "direccion": "Calle Falsa 123",
+            "telefono": "555-1234",
+            "email": "juan.perez@example.com"
+        },
+        {
+            "cedula": "0987654321",
+            "nombres": "Ana",
+            "apellidos": "García",
+            "fechaNacimiento": "1985-05-15",
+            "direccion": "Avenida Siempre Viva 456",
+            "telefono": "555-5678",
+            "email": "ana.garcia@example.com"
+        },
+        {
+            "cedula": "1187654321",
+            "nombres": "Micaela",
+            "apellidos": "Lopez",
+            "fechaNacimiento": "1985-05-15",
+            "direccion": "Avenida Siempre Viva 456",
+            "telefono": "555-5678",
+            "email": "mika.lopez@example.com"
+        },
+        {
+            "cedula": "0187854321",
+            "nombres": "Danny",
+            "apellidos": "Gonzales",
+            "fechaNacimiento": "1985-05-15",
+            "direccion": "Avenida Siempre Viva 456",
+            "telefono": "555-5678",
+            "email": "danny.gonzales@example.com"
+        }
+    ]
+}
