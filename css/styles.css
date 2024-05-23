@@ -1,5 +1,9 @@
 body {
-    background-color: #c4dcfc;
+    /*background-color: #c4dcfc;*/
+    background-image: url('../imagenes/fondo.jpg');
+    background-size: cover; /* Ajusta la imagen para que cubra todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center center; /* Centra la imagen */
 }
 
 p{
@@ -21,6 +25,7 @@ header{
     margin-top: 1%;
     margin-left: 20%;
     margin-right: 20%;
+    margin-bottom: 1%;
     background-color: white;
 }
 
